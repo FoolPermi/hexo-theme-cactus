@@ -5,7 +5,6 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/probberechts
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -17,19 +16,18 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: projects_url
-
+  projects: https://github.com/FoolPermi
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names 
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/probberechts/cactus-dark
-  twitter: /
-  facebook: /
-  linkedin: /
-  mail: mailto:name@email.com
+  github: https://github.com/FoolPermi
+  twitter: https://twitter.com/FoolPermi
+  facebook: https://www.facebook.com/foolpermi
+  weibo: http://weibo.com/foolpermi 
+  mail: mailto:foolpermi@gmail.com
 
 
 # Customize the overview with the most recent blog posts on the index page.
